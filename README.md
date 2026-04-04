@@ -1,7 +1,5 @@
-<<<<<<< HEAD
+
 # Mobile_App_Development_Lab
-=======
-# flutter_demo_app
 
 A new Flutter project.
 
