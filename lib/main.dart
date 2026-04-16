@@ -1,4 +1,4 @@
-//--------layput design 01------
+//--------layout design 01------
 
 
 // import 'package:flutter/material.dart';
@@ -112,7 +112,7 @@
 //   }
 // }
 
-//------------layput_design 02------------
+//------------layout_design 02------------
 import 'package:flutter/material.dart';
 
 void main() {
