@@ -1,18 +1,7 @@
 
-# Mobile_App_Development_Lab
+# Form UI
+<img width="486" height="698" alt="filled form" src="https://github.com/user-attachments/assets/cd2baeb6-7bb4-473a-8d3d-4f4e224a9910" />
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Display data
+<img width="478" height="703" alt="after_submission" src="https://github.com/user-attachments/assets/20af41d8-7291-49bd-956e-b29a8e4441b4" />
